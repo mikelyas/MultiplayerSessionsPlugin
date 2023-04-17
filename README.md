@@ -1,0 +1,3 @@
+# Multiplayer Sessions Plugin
+This is the plugin, that enables to manage sessions out of the box, just by adding to the project. This plugin works with SteamSubSystem and NULL subsystem, so don't forget to enable all neccessary things to make it work. You can find all neccessay steps here: https://docs.unrealengine.com/5.1/en-US/online-subsystem-steam-interface-in-unreal-engine/
+This plugin will be upgraded visually and functionally in the future, most of which would be taken from the existing project https://github.com/mikelyas/PuzzlePlatforms.
